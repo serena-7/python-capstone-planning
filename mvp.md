@@ -15,6 +15,8 @@ An employee portal for a business that allows employees to log their time and ac
 - Users can view existing timecards
 - Admins can add, activate, or deactivate jobcodes
 - Timecards can have active jobcodes only
+- System keeps track of users PTO
+- Admins can create reports to send to payroll
 
 ## Future Features:
 
